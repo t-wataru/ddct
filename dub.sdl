@@ -1,0 +1,4 @@
+name "dct"
+description "DCT2とそれの逆変換をFFT使ってやるやつ"
+copyright "Copyright © 2016, Tsujimoto Wataru"
+authors "Tsujimoto Wataru"
